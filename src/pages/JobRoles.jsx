@@ -7,7 +7,7 @@ const JobRoles = () => {
 
   useEffect(() => {
     // Fetch job roles from the backend endpoint
-    fetch('http://localhost:3000/jobRoles')
+    fetch(import.meta.env.VITE_API_URL + '/jobRoles')
       .then((response) => response.json())
       .then((data) => setJobRoles(data))
       .catch((error) => console.error('Error fetching job roles:', error));
