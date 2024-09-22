@@ -4,9 +4,9 @@ Welcome to the **GOODJOB** MERN project! This repository contains the JavaScript
 
 ## 🚀 Explore the TypeScript Version
 
-Check out the TypeScript version of this project in the repository: [rajnandale/reaact_goodjobiv](https://github.com/rajnandale/react_goodjobiv)
+Check out the TypeScript version of this project in the repository: [rajnandale/react_goodjobiv](https://github.com/rajnandale/react_goodjobiv)
 
-🌐 Live Preview of the TypeScript version: [reaactgoodjobiv.vercel.app](https://reaactgoodjobiv.vercel.app)
+🌐 Live Preview of the TypeScript version: [reactgoodjobiv.vercel.app](https://reactgoodjobiv.vercel.app)
 
 ## ⚙️ Project Status
 
