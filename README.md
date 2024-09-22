@@ -1,6 +1,6 @@
-# ⚡ React + Vite Frontend
+# ⚡ React + Vite Frontend : GOODJOB
 
-Welcome to the **React + Vite** project! This repository contains the JavaScript version of our frontend, but we also offer a TypeScript version for those who prefer strong typing and enhanced development features. 🎉
+Welcome to the **GOODJOB** MERN project! This repository contains the JavaScript version of our frontend, but we also offer a TypeScript version for those who prefer strong typing and enhanced development features. 🎉
 
 ## 🚀 Explore the TypeScript Version
 
